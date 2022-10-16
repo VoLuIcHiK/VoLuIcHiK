@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋
+Я начинающий ml-engineer и Data scientist
+В данный момент я:
+- изучаю модели машинного обучения;
+- прохожу курсы по deep learning;
+- читаю литературу по данной теме;
 
 <!--
 **VoLuIcHiK/VoLuIcHiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
