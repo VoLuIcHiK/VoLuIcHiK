@@ -5,16 +5,21 @@
 
 # I'm a ml-engineer and Data scientist from Moscow, Russia
 
-Учусь на 3 курсе направления "Программная инженерия", профиль - "Системы поддержки принятия решений". 
+I'm a 3rd year student of MIREA - Russian Technological University. I'm pursuing a bachelor's degree in software engineering.
 
-About me:
+### About me:
 - 📖 Exploring machine learning models;
 - 🥇Taking part in AI Contests;
 - 💻 Taking deep learning course;
-- 📫:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@voluichik)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](valueva.anastasiya.v@gmail.com)
+
+### :hammer_and_wrench: Languages and Tools :
 
 
-Мои навыки
+📫:How to reach me:\
+@voluichik - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)\
+valueva.anastasiya.v@gmail.com - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
 
 <!--
 **VoLuIcHiK/VoLuIcHiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
