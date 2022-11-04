@@ -1,13 +1,17 @@
-### 
-![alt text](/Users/macbook/Downloads/Котик.png)
-# Я начинающий ml-engineer и Data scientist
+### ![Котик](https://user-images.githubusercontent.com/90902903/199983881-48bffb51-5c8f-41f2-a0da-7d9e109bd9c1.png)
 
-Учусь на 3 курсе направления "Программная инженерия", профиль - "Системы поддержки принятия решений"
+# I'm a ml-engineer and Data scientist from Moscow, Russia
 
-В данный момент я:
-- изучаю модели машинного обучения;
-- прохожу курсы по deep learning;
-- читаю литературу по данной теме;
+Учусь на 3 курсе направления "Программная инженерия", профиль - "Системы поддержки принятия решений". 
+
+About me:
+- 📖 Exploring machine learning models;
+- 🥇Taking part in AI Contests;
+- 💻 Taking deep learning course;
+- 
+
+
+Мои навыки
 
 <!--
 **VoLuIcHiK/VoLuIcHiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
