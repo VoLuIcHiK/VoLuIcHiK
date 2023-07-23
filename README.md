@@ -1,6 +1,6 @@
 ### 
 <p align="center">
-<img width="608" alt="image" src="https://user-images.githubusercontent.com/90902903/199992562-b9bc3f08-5e54-4357-b746-0e11e61bb715.png">
+<img width="608" alt="image" src="https://github.com/VoLuIcHiK/VoLuIcHiK/assets/90902903/c2316e14-83cd-4663-8dc0-effd32071988">
 </p>
 
 # I'm a ml-engineer and Data scientist from Moscow, Russia
