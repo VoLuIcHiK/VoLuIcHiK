@@ -1,3 +1,4 @@
+![ЛЦТ — копия](https://github.com/VoLuIcHiK/VoLuIcHiK/assets/90902903/399348fc-5f38-469e-b681-02563a3ba5ab)
 ### a ml-engineer and Data scientist from Moscow, Russia
 
 I'm a 4th year student of MIREA - Russian Technological University. I'm pursuing a bachelor's degree in software engineering.I really interested in Machine Learning (ML) and Deep Learning (DL)
